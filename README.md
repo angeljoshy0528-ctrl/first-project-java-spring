@@ -32,8 +32,11 @@ This application demonstrates the basics of Spring Boot MVC with:
 
 ## Screenshots
 
-### Root Endpoint
+### Root Endpoint - localhost:8080/
 ![Root](screenshots/root.png)
+
+### Greeting Page - localhost:8080/greeting?name=Vistula
+![Greeting](screenshots/greeting.png)
 
 ### Greeting Page
 ![Greeting](screenshots/greeting.png)
