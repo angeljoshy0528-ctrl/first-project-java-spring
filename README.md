@@ -38,8 +38,6 @@ This application demonstrates the basics of Spring Boot MVC with:
 ### Greeting Page - localhost:8080/greeting?name=Vistula
 ![Greeting](screenshots/greeting.png)
 
-### Greeting Page
-![Greeting](screenshots/greeting.png)
 
 ## What I Learned
 - How to create a Spring Boot project
